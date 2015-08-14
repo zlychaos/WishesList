@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.5.0"
+  },
+  "applications": {
+    "WishesList": {
+      "applicationId": "tzUq8xQohWfwEVPc95hOkdqd0Nz8t6snIRJGefrm",
+      "masterKey": "iqDFsV5qNwPKvN6MzGuIdAQQhkG215eV7meY4a8V"
+    },
+    "_default": {
+      "link": "WishesList"
+    }
+  }
+}
